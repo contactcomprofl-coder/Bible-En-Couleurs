@@ -2,7 +2,7 @@
   "name": "La Bible en couleurs",
   "short_name": "Bible",
   "description": "Bible catholique, psaumes, prières, Compostelle.",
-  "start_url": "./index.html",
+  "start_url": "./bible.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#fbf4e4",
